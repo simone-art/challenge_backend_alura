@@ -18,6 +18,9 @@ Para utilizá-lo é necessário fazer uma cópia do quadro original. Para isso, 
 
 # Sugestões de implementação, Cursos e Formações
 Este desafio é agnóstico com relação à linguagem de programação, banco de dados e frameworks. Para estas semanas, deixamos no Trello algumas sugestões de conteúdos e cursos, mas você pode usar os recursos que tiver à mão. A comunidade no Discord também pode te ajudar com dicas e discussões!
+
+Links Geral: https://www.alura.com.br/challenges/back-end-3/semana-01-upload-tratamento-arquivos-csv?utm_source=ActiveCampaign&utm_medium=email&utm_content=%5BLIBERADO%5D+Desafio+01+-+Alura+Challenge+Back-End&utm_campaign=%5BChallenges%5D+%28Back-end+-+3%C2%AA+edi%C3%A7%C3%A3o%29+Divulga%C3%A7%C3%A3o+da+Semana+01&vgo_ee=fU6MzNf3QnXmouVZhWxWQ0U%2FmDfRxaohcoIborwXLMY%3D
+
 # Java - Semana 1
 Links: https://cursos.alura.com.br/challenge-backend-3-java-semana-1-rodrigo-ferreira-1647455350548-p322665
 Python - Semana 1
@@ -57,6 +60,8 @@ Para utilizá-lo é necessário fazer uma cópia do quadro original. Para isso, 
 # Sugestões de implementação, Cursos e Formações
 Este desafio é agnóstico com relação à linguagem de programação, banco de dados e frameworks. Para estas semanas, deixamos no Trello algumas sugestões de conteúdos e cursos, mas você pode usar os recursos que tiver à mão. A comunidade no Discord também pode te ajudar com dicas e discussões!
 
+Link Geral: https://www.alura.com.br/challenges/back-end-3/semana-02-crud-usuarios-controle-acesso?utm_source=ActiveCampaign&utm_medium=email&utm_content=%5BLIBERADO%5D+Desafio+02+-+Alura+Challenge+Back-End&utm_campaign=%5BChallenges%5D+%28Back-end+-+3%C2%AA+edi%C3%A7%C3%A3o%29+Divulga%C3%A7%C3%A3o+da+Semana+02&vgo_ee=fU6MzNf3QnXmouVZhWxWQ0U%2FmDfRxaohcoIborwXLMY%3D
+
 # Java - Semana 2
 Links: 
 1. https://cursos.alura.com.br/challenge-backend-3-java-semana-2-rodrigo-ferreira-1647525992346-p323417
@@ -78,6 +83,8 @@ ImersãoDev - O que é GitHub e como utilizar a ferramenta?
 Marque o seu repositório do Github com a hashtag #alurachallengebackend3
 
 # Semanas 03 e 04: Algoritmo de análise de transações, testes automatizados e deploy
+
+Links Geral: https://www.alura.com.br/challenges/back-end-3/semana-03-04-algoritmo-analise-transacoes-testes-automatizados-deploy?utm_source=ActiveCampaign&utm_medium=email&utm_content=%5BChallenge+Back-End%5D+A+3%C2%BA+aula+j%C3%A1+est%C3%A1+dispon%C3%ADvel&utm_campaign=%5BChallenges%5D+%28Back-end+-+3%C2%AA+edi%C3%A7%C3%A3o%29+Divulga%C3%A7%C3%A3o+aula+03&vgo_ee=fU6MzNf3QnXmouVZhWxWQ0U%2FmDfRxaohcoIborwXLMY%3D
 
 DETALHES DESSE DESAFIO:
 # Conteúdos importantes
